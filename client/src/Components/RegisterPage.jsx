@@ -67,7 +67,7 @@ const RegisterPage = () => {
             navigate
         })
         dispatch(responseData);
-        if(errorMsg!=''){
+        if(!errorMsg){
             dispatch(setIsCurrentlyLoggedIn(true));
         }
     };

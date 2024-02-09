@@ -22,7 +22,7 @@ const NavBar = () => {
         localStorage.removeItem('authToken');
         dispatch(setIsCurrentlyLoggedIn(false));
     };
-
+    console.log(isCurrentlyLogenInValue)
     return (
         <Wrapper>
             <Navbar bg="light" expand="lg">

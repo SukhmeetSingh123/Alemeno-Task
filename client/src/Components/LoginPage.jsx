@@ -44,11 +44,11 @@ const LoginPage = () => {
             navigate
         })
         dispatch(responseData);
-        if(errorMsg!=''){
-            dispatch(setIsCurrentlyLoggedIn(true));
+        if(!errorMsg){
+             dispatch(setIsCurrentlyLoggedIn(true));
         }
     };
-
+    console.log("errorMsg",errorMsg)
     const handleRegisterClick = () => {
         navigate('/register');
     };
