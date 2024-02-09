@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "65c5f9208a6a64bb2f7a4d68"
+  },
+  "name": "Introduction to React Native",
+  "instructor": "John Doe",
+  "description": "Learn the basics of React Native development and build your first mobile app.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "../assets/thumbnail_Images/Introduction_to_React_Native.jpg",
+  "duration": "8 weeks",
+  "schedule": "Tuesdays and Thursdays, 6:00 PM-8:00 PM",
+  "location": "Online",
+  "likes": 9,
+  "prerequisites": [
+    "Basic JavaScript knowledge",
+    "Familiarity with React"
+  ],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native, setting up your development environment."
+    },
+    {
+      "week": 2,
+      "topic": "Building Your First App",
+      "content": "Creating a simple mobile app using React Native components"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5f9338a6a64bb2f7a4d6a"
+  },
+  "name": "Advanced React Native Techniques",
+  "instructor": "Jane Smith",
+  "description": "Dive deeper into React Native with advanced techniques and best practices.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "../assets/thumbnail_Images/Advanced_React_Native_Techniques.jpg",
+  "duration": "10 weeks",
+  "schedule": "Mondays and Wednesdays, 7:00 PM-9:00 PM",
+  "location": "Online",
+  "likes": 11,
+  "prerequisites": [
+    "Proficiency in JavaScript",
+    "Experience with React Native basics"
+  ],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Advanced Component Patterns",
+      "content": "Explore advanced component patterns and composition techniques."
+    },
+    {
+      "week": 2,
+      "topic": "Performance Optimization",
+      "content": "Optimizing React Native apps for performance and responsiveness."
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5f93b8a6a64bb2f7a4d6c"
+  },
+  "name": "React Native App Development Bootcamp",
+  "instructor": "David Johnson",
+  "description": "Intensive bootcamp to master React Native app development from scratch.",
+  "enrollmentStatus": "Closed",
+  "thumbnail": "../assets/thumbnail_Images/React_Native_App_Development_Bootcamp.jpg",
+  "duration": "4 weeks",
+  "schedule": "Saturdays and Sundays, 10:00 AM-2:00 PM",
+  "location": "In-person (San Francisco, CA)",
+  "likes": 13,
+  "prerequisites": [
+    "Basic programming knowledge",
+    "No prior React Native experience required"
+  ],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Setting Up Development Environment",
+      "content": "Installing necessary tools and configuring your environment for React Native."
+    },
+    {
+      "week": 2,
+      "topic": "Building User Interfaces",
+      "content": "Designing and implementing user interfaces with React Native components."
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5f9428a6a64bb2f7a4d6e"
+  },
+  "name": "Full Stack Web & Mobile Development with React Native",
+  "instructor": "Sarah Johnson",
+  "description": "Comprehensive course covering both front-end web development and mobile app development with React Native.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "../assets/thumbnail_Images/Full_Stack_Web_&_Mobile_Development_with_React_Native.jpg",
+  "duration": "12 weeks",
+  "schedule": "Fridays, 6:00 PM-9:00 PM",
+  "location": "Online",
+  "likes": 16,
+  "prerequisites": [
+    "Basic understanding of HTML, CSS, and JavaScript",
+    "No prior React Native experience required"
+  ],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Front-end Development Basics",
+      "content": "Introduction to HTML, CSS, and JavaScript for web development."
+    },
+    {
+      "week": 2,
+      "topic": "Introduction to React Native",
+      "content": "Overview of React Native and its advantages for mobile app development."
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5f9528a6a64bb2f7a4d70"
+  },
+  "name": "React Native UI Design Masterclass",
+  "instructor": "Alexandra Chen",
+  "description": "Focused course on mastering UI design principles and practices in React Native.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "../assets/thumbnail_Images/React_Native_UI_Design_Masterclass.jpg",
+  "duration": "6 weeks",
+  "schedule": "Saturdays, 10:00 AM-1:00 PM",
+  "location": "Online",
+  "likes": 9,
+  "prerequisites": [
+    "Basic knowledge of React Native",
+    "Understanding of fundamental design principles"
+  ],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Introduction to UI Design",
+      "content": "Understanding the basics of user interface design and its importance."
+    },
+    {
+      "week": 2,
+      "topic": "Typography and Color",
+      "content": "Exploring typography and color theory in UI design."
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5f95a8a6a64bb2f7a4d72"
+  },
+  "name": "React Native for Beginners: A Hands-On Approach",
+  "instructor": "Michael Rodriguez",
+  "description": "Beginner-friendly course focusing on practical exercises to learn React Native.",
+  "enrollmentStatus": "Open",
+  "thumbnail": "../assets/thumbnail_Images/React_Native_for_Beginners_A_Hands-On_Approach.jpg",
+  "duration": "8 weeks",
+  "schedule": "Mondays and Wednesdays, 6:30 PM-8:30 PM",
+  "location": "Online",
+  "likes": 11,
+  "prerequisites": [
+    "Basic understanding of JavaScript",
+    "No prior React Native experience required"
+  ],
+  "syllabus": [
+    {
+      "week": 1,
+      "topic": "Getting Started with React Native",
+      "content": "Setting up your development environment and creating your first React Native app."
+    },
+    {
+      "week": 2,
+      "topic": "Working with Components",
+      "content": "Understanding React Native components and their usage."
+    }
+  ],
+  "__v": 0
+}]
